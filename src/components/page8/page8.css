@@ -1,0 +1,19 @@
+.img {
+    width: 100vw;
+    position: absolute;
+    object-fit: contain;
+    top: 40%;
+}
+
+
+.button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background: #000;
+    color: white;
+    border-radius: 20px;
+    margin-left: 4rem;
+    position: absolute;
+    top: 80%;
+    left: 40%;
+}
